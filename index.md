@@ -1,11 +1,10 @@
-
+![Yunero Logo](/Yunero_logo-01.jpg)
 
 ### OUR LANGUAGE IS GAME
 
 ```
 
 In our world, the game is not simply a product, it is the language, the goar for Yunero
-
 
 ```
 
