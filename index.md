@@ -1,4 +1,6 @@
-![Yunero Logo](/Yunero_logo-01.jpg)
+## YUNERO JSC
+
+![Yunero Logo](/blob/main/Yunero_logo-01.png)
 
 ### OUR LANGUAGE IS GAME
 
